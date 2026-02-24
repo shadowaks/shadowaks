@@ -1,27 +1,25 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">Hi 👋, I'm Akash Potraje</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+AI+DevOps+Engineer;5%2B+Years+of+Experience;Cloud+%7C+Kubernetes+%7C+Terraform+%7C+AI;Automating+Everything+⚙️;Building+Scalable+Systems+🚀" />
-</p>
+<h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
+<h3 align="center">🚀 Full Stack AI DevOps Engineer | 🧠 Problem Solver | 🌍 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadowaks&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/shubmeshaws?style=for-the-badge&color=blue" />
+  <a href="https://github.com/shubmeshaws">
+    <img src="https://komarev.com/ghpvc/?username=shubmeshaws&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/shubmeshaws?tab=followers">
+    <img src="https://img.shields.io/github/followers/shubmeshaws?label=Followers&style=social" alt="GitHub Badge">
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-```yaml
-- 🔭 I’m currently working on AI DvOps Projects
-- 🌱 I’m currently learning MLOPS
-- 💬 Ask me about JavaScript, Python, Cloud & DevOps
-- 📫 How to reach me: akspotraje17@gmail.com
-- ⚡ Fun fact: 🤖 I teach machines to deploy themselves
-
+- 🔭 I’m currently working on **AI DvOps Projects**
+- 🌱 I’m currently learning **MLOPS**
+- 💬 Ask me about **JavaScript, Python, Cloud & DevOps**
+- 📫 How to reach me: **shubmeshaws@gmail.com**
+- 📫 How to view my portfolio: **https://shubhammeshram.com**
+- ⚡ Fun fact: I turn coffee into scalable systems ☕
 
 ---
 
