@@ -19,6 +19,5 @@
 🔭 I’m currently working on AI DvOps Projects
 🌱 I’m currently learning MLOPS
 💬 Ask me about JavaScript, Python, Cloud & DevOps
-📫 How to reach me: shubmeshaws@gmail.com
-📫 How to view my portfolio: https://shubhammeshram.com
-⚡ Fun fact: I turn coffee into scalable systems ☕
+📫 How to reach me: akspotraje17@gmail.com
+⚡ Fun fact: 🤖 I teach machines to deploy themselves
