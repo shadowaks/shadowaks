@@ -16,8 +16,8 @@
 # 🚀 About Me
 
 ```yaml
-🔭 I’m currently working on AI DvOps Projects
-🌱 I’m currently learning MLOPS
-💬 Ask me about JavaScript, Python, Cloud & DevOps
-📫 How to reach me: akspotraje17@gmail.com
-⚡ Fun fact: 🤖 I teach machines to deploy themselves
+* 🔭 I’m currently working on AI DvOps Projects
+* 🌱 I’m currently learning MLOPS
+* 💬 Ask me about JavaScript, Python, Cloud & DevOps
+* 📫 How to reach me: akspotraje17@gmail.com
+* ⚡ Fun fact: 🤖 I teach machines to deploy themselves
