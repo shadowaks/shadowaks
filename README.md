@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=shadowakas&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
   <a href="https://github.com/shadowakas?tab=followers">
-    <img src="https://img.shields.io/github/followers/shadowakas?label=Followers&style=social" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/shadowaks?label=Followers&style=social" alt="GitHub Badge">
   </a>
 </p>
 
