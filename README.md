@@ -1,16 +1,23 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**shadowaks/shadowaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shubham Meshram</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+AI+DevOps+Engineer;5%2B+Years+of+Experience;Cloud+%7C+Kubernetes+%7C+Terraform+%7C+AI;Automating+Everything+⚙️;Building+Scalable+Systems+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubmeshaws&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shubmeshaws?style=for-the-badge&color=blue" />
+</p>
+
+---
+
+# 🚀 About Me
+
+```yaml
+name: Shubham Meshram
+role: Full Stack AI DevOps Engineer
+experience: 5+ Years
+focus: Cloud | AI | DevOps | Automation
+currently_learning: MLOps & Advanced System Design
